@@ -27,7 +27,7 @@ public class Main {
         // Bubble shot
         int arr[] = {34,45,72,67,38,92,48};
 
-        int temp = 0;
+        int temp = 1;
         for(int i=0; i< arr.length-1; i++){
             for(int j=0; j< arr.length-1; j++){
                 if(arr[j]>arr[j+1]){
