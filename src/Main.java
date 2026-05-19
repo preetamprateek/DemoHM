@@ -25,7 +25,7 @@ public class Main {
 
 
         // Bubble shot
-        int arr[] = {34,45,72,67,38,92,4800};
+        int arr[] = {34,45,72,67,38,92,48};
 
         int temp = 1;
         for(int i=0; i< arr.length-1; i++){
